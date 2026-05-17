@@ -1,4 +1,4 @@
-![Teks Alternatif](Screenshot 2026-05-17 201107.png)
+![Gambar webnya](gambar-web-nya.png)
 
 
 
