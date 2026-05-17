@@ -1,3 +1,7 @@
+![Teks Alternatif](Screenshot 2026-05-17 201107.png)
+
+
+
 Author : Flavianus Ferdinand Jegara
 
 Github : FlavianusDev
