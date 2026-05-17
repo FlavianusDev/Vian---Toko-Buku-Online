@@ -12,6 +12,6 @@ Website Toko Buku Online Sederhana yang dibangun menggunakan HTML, CSS, dan Java
 
 
 Cara clone ke komputer (pastikan git sudah terinstall);
-1. git clone (link code)
+1. git clone https://github.com/FlavianusDev/Vian---Toko-Buku-Online.git
 
 Atau download file nya sebagai zip lalu kompres di komputermu.
